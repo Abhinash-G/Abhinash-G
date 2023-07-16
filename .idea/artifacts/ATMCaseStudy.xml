@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ATMCaseStudy">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATMCaseStudy</output-path>
+    <root id="archive" name="ATMCaseStudy.jar" />
+  </artifact>
+</component>
